@@ -1,0 +1,1 @@
+update into table set amount=1000 where balance=1500
